@@ -1,3 +1,4 @@
+//Finding the errors like syntax , logical, run-time errors
 import java.lang.Math;
 
 class Fortune {
